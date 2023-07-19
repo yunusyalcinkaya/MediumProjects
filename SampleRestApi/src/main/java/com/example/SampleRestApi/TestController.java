@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+// ! NOTE: METODLAR ÖRNEK OLMASI İÇİN OLUŞTURULMUŞTUR. DOĞRU KULLANIM DEĞİLDİR.
 @RestController
 @RequestMapping("/api")
 public class TestController {
