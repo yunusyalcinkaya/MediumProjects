@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/SampleRestApi/pom.xml" />
         <option value="$PROJECT_DIR$/JpaUsage/pom.xml" />
         <option value="$PROJECT_DIR$/LombokUsage/pom.xml" />
+        <option value="$PROJECT_DIR$/DTOAndModelMapperUsage/pom.xml" />
       </list>
     </option>
   </component>

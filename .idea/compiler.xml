@@ -10,11 +10,13 @@
         <module name="SampleRestApi" />
         <module name="JpaUsage" />
         <module name="LombokUsage" />
+        <module name="DTOAndModelMapperUsage" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="DTOAndModelMapperUsage" options="-parameters" />
       <module name="JpaUsage" options="-parameters" />
       <module name="LombokUsage" options="-parameters" />
       <module name="SampleRestApi" options="-parameters" />

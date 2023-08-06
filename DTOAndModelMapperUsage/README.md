@@ -1,0 +1,1 @@
+First run "/docker-compose.yml" to run the project. Or update "application.yml" file to use another database server.
