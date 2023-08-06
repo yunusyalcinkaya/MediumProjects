@@ -21,7 +21,6 @@ public class ProductManager implements ProductService {
 
     public List<GetAllProductsResponse> getAll(){
         List<Product> products = repository.findAll();
-
         List<GetAllProductsResponse> response = products.stream()
                 .map(product -> mapper.map(product, GetAllProductsResponse.class))
                 .toList();
