@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/JpaUsage/pom.xml" />
         <option value="$PROJECT_DIR$/LombokUsage/pom.xml" />
         <option value="$PROJECT_DIR$/DTOAndModelMapperUsage/pom.xml" />
+        <option value="$PROJECT_DIR$/SOLID_Principles/pom.xml" />
       </list>
     </option>
   </component>

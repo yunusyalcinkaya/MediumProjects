@@ -10,6 +10,7 @@
         <module name="SampleRestApi" />
         <module name="JpaUsage" />
         <module name="LombokUsage" />
+        <module name="SOLID_Principles" />
         <module name="DTOAndModelMapperUsage" />
       </profile>
     </annotationProcessing>
@@ -19,6 +20,7 @@
       <module name="DTOAndModelMapperUsage" options="-parameters" />
       <module name="JpaUsage" options="-parameters" />
       <module name="LombokUsage" options="-parameters" />
+      <module name="SOLID_Principles" options="-parameters" />
       <module name="SampleRestApi" options="-parameters" />
     </option>
   </component>
